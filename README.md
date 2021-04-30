@@ -1,5 +1,5 @@
 # server
-Servidor do petshop, utilizado para chamada da API
+⚙️ Servidor do petshop, utilizado para chamada da API
 
 ### Pré-requisitos
 
